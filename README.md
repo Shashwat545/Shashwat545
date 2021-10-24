@@ -11,6 +11,9 @@
 - 📫 Reach me by mailing to 20me02039@iitbbs.ac.in | shashwatsingh545@gmail.com
 
 
+#### GitHub Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shashwat545)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
