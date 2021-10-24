@@ -1,9 +1,9 @@
 <h2 align ="center">Hi I'm Shashwat <img src="https://user-images.githubusercontent.com/78429106/138613016-7945b034-291d-45b8-9673-8bd95037acb4.gif" width="27px" alt="Hi :)"></h1>
 
 <p align="center">
-  <a href="https://codeforces.com/profile/shashwat545" target="_blank"> Codeforces </a>|
-  <a href="https://www.linkedin.com/in/shashwatsingh545/" target="_blank"> LinkedIn </a>|
-  <a href="https://shashwat545.github.io/" target="_blank"> Webpage </a>
+  <a href="https://codeforces.com/profile/shashwat545"> Codeforces </a>|
+  <a href="https://www.linkedin.com/in/shashwatsingh545/"> LinkedIn </a>|
+  <a href="https://shashwat545.github.io/"> Webpage </a>
 </p>
 
 - ⭐ I'm a second year student pursuing BTech from [IIT BBS](https://www.iitbbs.ac.in/).
