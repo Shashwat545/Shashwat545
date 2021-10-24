@@ -17,6 +17,10 @@
 #### GitHub Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shashwat545&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
+#### Coding Stats
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 
 
 
