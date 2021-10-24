@@ -1,6 +1,10 @@
 <h2 align ="center">Hi I'm Shashwat <img src="https://user-images.githubusercontent.com/78429106/138613016-7945b034-291d-45b8-9673-8bd95037acb4.gif" width="27px" alt="Hi :)"></h1>
 
-I'm Shashwat Singh,
+<p align="center">
+  <a href="https://codeforces.com/profile/shashwat545"> Codeforces </a>|
+  <a href="https://www.linkedin.com/in/shashwatsingh545/"> LinkedIn </a>|
+  <a href="https://shashwat545.github.io/"> Webpage </a>
+</p>
 
 
 
