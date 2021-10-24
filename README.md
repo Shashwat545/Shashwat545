@@ -6,6 +6,9 @@
   <a href="https://shashwat545.github.io/" target="_blank"> Webpage </a>
 </p>
 
+- I'm a second year student pursuing BTech from [IIT Bhubaneswar](https://www.iitbbs.ac.in/).
+- I'm currently learning backend development.
+- Reach me by mailing to 20me02039@iitbbs.ac.in | shashwatsingh545@gmail.com
 
 
 
