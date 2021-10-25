@@ -10,14 +10,14 @@
 - ⚙ I'm currently learning backend development.
 - 📫 Reach me by mailing to 20me02039@iitbbs.ac.in | shashwatsingh545@gmail.com
 
-#### Profile Visits
+#### Profile Visits:
 ![](https://komarev.com/ghpvc/?username=Shashwat545)
 
 
-#### GitHub Stats
+#### GitHub Stats:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shashwat545&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-#### Coding Stats
+#### Coding Stats this week:
 <!--START_SECTION:waka-->
 ```text
 No Activity tracked this Week
