@@ -1,4 +1,4 @@
-<h2 align ="center">Hi I'm Shashwat <img src="https://user-images.githubusercontent.com/78429106/138613016-7945b034-291d-45b8-9673-8bd95037acb4.gif" width="27px" alt="Hi :)"></h1>
+<h2 align ="center">Hi I'm Shashwat <!--<img src="https://user-images.githubusercontent.com/78429106/138613016-7945b034-291d-45b8-9673-8bd95037acb4.gif" width="27px" alt="Hi :)">--></h1>
 
 <p align="center">
   <a href="https://codeforces.com/profile/shashwat545"> Codeforces </a>|
