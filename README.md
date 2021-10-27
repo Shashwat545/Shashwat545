@@ -20,7 +20,9 @@
 #### Coding Stats this week:
 <!--START_SECTION:waka-->
 ```text
-HTML   1 min           █████████████████████████   100.00 % 
+C++                   15 mins         ████████████▓░░░░░░░░░░░░   50.46 % 
+Sublime Text Config   10 mins         ████████▓░░░░░░░░░░░░░░░░   34.42 % 
+HTML                  4 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.62 % 
 ```
 <!--END_SECTION:waka-->
 
