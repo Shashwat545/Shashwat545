@@ -21,9 +21,11 @@
 #### Coding Stats this week:
 <!--START_SECTION:waka-->
 ```text
-C++                   15 mins         ████████████▓░░░░░░░░░░░░   50.46 % 
-Sublime Text Config   10 mins         ████████▓░░░░░░░░░░░░░░░░   34.42 % 
-HTML                  4 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.62 % 
+Kotlin                1 hr 2 mins     ███████████████░░░░░░░░░░   59.77 % 
+C++                   15 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.92 % 
+XML                   11 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.67 % 
+Sublime Text Config   10 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.17 % 
+HTML                  4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
 ```
 <!--END_SECTION:waka-->
 
