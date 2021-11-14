@@ -21,8 +21,7 @@
 #### Coding Stats this week:
 <!--START_SECTION:waka-->
 ```text
-C++    56 mins         ███████████████████████░░   92.24 % 
-Text   4 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 % 
+C++   11 mins         █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
