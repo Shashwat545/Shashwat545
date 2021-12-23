@@ -21,10 +21,9 @@
 #### Coding Stats this week:
 <!--START_SECTION:waka-->
 ```text
-JavaScript   6 hrs 40 mins   ████████████████████░░░░░   79.36 % 
-C++          1 hr 1 min      ███░░░░░░░░░░░░░░░░░░░░░░   12.24 % 
-CSS          39 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 % 
-Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
+JavaScript   4 hrs 58 mins   ██████████████████████░░░   87.62 % 
+CSS          39 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.72 % 
+Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
 ```
 <!--END_SECTION:waka-->
 
