@@ -21,7 +21,9 @@
 #### Coding Stats this week:
 <!--START_SECTION:waka-->
 ```text
-JavaScript   5 mins          █████████████████████████   100.00 % 
+HTML                  21 mins         ██████████████████▒░░░░░░   72.76 % 
+Sublime Text Config   5 mins          ████▓░░░░░░░░░░░░░░░░░░░░   19.15 % 
+Other                 1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.54 % 
 ```
 <!--END_SECTION:waka-->
 
