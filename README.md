@@ -21,11 +21,11 @@
 #### Coding Stats this week:
 <!--START_SECTION:waka-->
 ```text
-JavaScript            1 hr 5 mins     █████████▒░░░░░░░░░░░░░░░   37.51 % 
-Java                  1 hr 3 mins     █████████░░░░░░░░░░░░░░░░   36.03 % 
-HTML                  21 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.95 % 
-C                     14 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 % 
-Sublime Text Config   5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
+Java                  2 hrs 59 mins   ████████████▓░░░░░░░░░░░░   50.77 % 
+JavaScript            2 hrs 7 mins    █████████░░░░░░░░░░░░░░░░   35.87 % 
+HTML                  21 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.93 % 
+C                     14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
+Sublime Text Config   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
 ```
 <!--END_SECTION:waka-->
 
