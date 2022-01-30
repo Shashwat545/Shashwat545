@@ -21,7 +21,7 @@
 #### Coding Stats this week:
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+JavaScript   8 mins          ████████████████████████░   96.29 % 
 ```
 <!--END_SECTION:waka-->
 
