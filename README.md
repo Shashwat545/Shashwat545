@@ -21,9 +21,11 @@
 #### Coding Stats this week:
 <!--START_SECTION:waka-->
 ```text
-Total: 2 mins
+Total: 51 mins
 
-HTML         2 mins          █████████████████████████   100.00 % 
+HTML         32 mins         █████████████▓░░░░░░░░░░░   54.53 % 
+CSS          19 mins         ████████░░░░░░░░░░░░░░░░░   32.58 % 
+Other        7 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   12.89 % 
 ```
 <!--END_SECTION:waka-->
 
