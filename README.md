@@ -20,9 +20,11 @@
 
 #### Coding Stats this week:
 <!--START_SECTION:waka-->
+
 ```text
-CSS    3 mins          █████████████████████░░░░   84.33 % 
+No activity tracked
 ```
+
 <!--END_SECTION:waka-->
 
 
