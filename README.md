@@ -8,7 +8,7 @@
 
 - ⭐ I'm a second year student pursuing BTech from [IIT BBS](https://www.iitbbs.ac.in/).
 - ⚙ I'm currently learning backend development.
-- 📫 Reach me by mailing to 20me02039@iitbbs.ac.in | shashwatsingh545@gmail.com
+- 📫 Reach me by mailing to shashwatsingh545@gmail.com | 20me02039@iitbbs.ac.in
 
 <!--
 #### Profile Visits:
