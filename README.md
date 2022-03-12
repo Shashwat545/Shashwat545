@@ -18,6 +18,11 @@
 #### GitHub Stats:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shashwat545&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
+<b>Profile Views:</b>
+<br>
+![Visitor Count](https://profile-counter.glitch.me/{Shashwat545}/count.svg)
+<br>
+
 #### Coding Stats this week:
 <!--START_SECTION:waka-->
 
