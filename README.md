@@ -16,7 +16,11 @@
 -->
 
 #### GitHub Stats:
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Shashwat545&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Shashwat's Github Stats">
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Shashwat545&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Shashwat's Github Stats"> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shashwat545&layout=compact&theme=buefy&hide_border=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" /> |
+| ------------- | ------------- |
+
+<!--| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> | -->
+
 
 <b>Profile Views:</b>
 <br>
