@@ -31,12 +31,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Python       0 secs          ██████████░░░░░░░░░░░░░░░   39.93 %
-Markdown     0 secs          █████████▒░░░░░░░░░░░░░░░   37.56 %
-YAML         0 secs          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.88 %
-Text         0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.13 %
-Git Config   0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 %
-Other        0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
