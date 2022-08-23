@@ -6,7 +6,7 @@
   <a href="https://shashwat545.github.io/"> Webpage </a>
 </p>
 
-- ⭐ I'm a second year student pursuing BTech from [IIT BBS](https://www.iitbbs.ac.in/).
+- ⭐ Currently a third year student pursuing BTech from [IIT BBS](https://www.iitbbs.ac.in/).
 - ⚙ Exploring DSA as of now....
 - 📫 Reach me by mailing to shashwatsingh545@gmail.com | 20me02039@iitbbs.ac.in
 
