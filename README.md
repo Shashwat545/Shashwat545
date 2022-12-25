@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://codeforces.com/profile/shashwat545"> Codeforces </a>|
   <a href="https://www.linkedin.com/in/shashwatsingh545/"> LinkedIn </a>|
-  <a href="https:/shashwat-singh.com/"> Webpage </a>
+  <a href="https://shashwat-singh.com/"> Webpage </a>
 </p>
 
 - ⭐ Currently a third year student pursuing BTech from [IIT BBS](https://www.iitbbs.ac.in/).
