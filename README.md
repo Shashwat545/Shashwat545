@@ -31,8 +31,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   2 mins          ████████████████████████▒   96.80 %
-Docker       0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.20 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
