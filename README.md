@@ -1,13 +1,13 @@
 <h2 align ="center">Hi there, I am Shashwat <!--<img src="https://user-images.githubusercontent.com/78429106/138613016-7945b034-291d-45b8-9673-8bd95037acb4.gif" width="27px" alt="Hi :)">--></h1>
 
 <p align="center">
-  <a href="https://codeforces.com/profile/shashwat545"> Codeforces </a>|
+<!--   <a href="https://codeforces.com/profile/shashwat545"> Codeforces </a>| -->
   <a href="https://www.linkedin.com/in/shashwatsingh545/"> LinkedIn </a>|
   <a href="https://shashwat-singh.com/"> Webpage </a>
 </p>
 
-- ⭐ Currently a third year student pursuing BTech from [IIT BBS](https://www.iitbbs.ac.in/).
-- ⚙ Exploring DSA as of now....
+- ⭐ Currently a pre-final year student pursuing BTech from [IIT BBS](https://www.iitbbs.ac.in/).
+- ⚙ Experienced full stack MERN developer.
 - 📫 Reach me by mailing to shashwatsingh545@gmail.com | 20me02039@iitbbs.ac.in
 
 <!--
