@@ -31,7 +31,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python   2 mins          █████████████████████████   100.00 %
+TypeScript   8 mins          ██████████████████▓░░░░░░   75.29 %
+Python       2 mins          ██████▒░░░░░░░░░░░░░░░░░░   24.71 %
 ```
 
 <!--END_SECTION:waka-->
