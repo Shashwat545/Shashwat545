@@ -31,11 +31,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript     18 mins         ██████████▓░░░░░░░░░░░░░░   42.54 %
-ActionScript   13 mins         ████████░░░░░░░░░░░░░░░░░   31.99 %
-TSQL           5 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.82 %
-Bash           4 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.78 %
-Ezhil          1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.88 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
