@@ -31,7 +31,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+TSQL         30 mins         ████████████████████▓░░░░   82.42 %
+Bash         3 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.93 %
+Ezhil        2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.26 %
+TypeScript   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.39 %
 ```
 
 <!--END_SECTION:waka-->
