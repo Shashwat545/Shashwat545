@@ -31,9 +31,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   4 hrs 18 mins   █████████████████████████   99.77 %
-Prisma       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
-Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+TypeScript   3 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
